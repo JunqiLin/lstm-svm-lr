@@ -1,5 +1,3 @@
-# lstm-svm-lr
-三种模型对比
 
 ###1.环境和包
 	python3 
