@@ -1,0 +1,6 @@
+model_checkpoint_path: "stock1.model-29"
+all_model_checkpoint_paths: "stock1.model-25"
+all_model_checkpoint_paths: "stock1.model-26"
+all_model_checkpoint_paths: "stock1.model-27"
+all_model_checkpoint_paths: "stock1.model-28"
+all_model_checkpoint_paths: "stock1.model-29"
